@@ -1,16 +1,21 @@
 <div align="center">
+ 
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1> ✨ Hi there, I'm Budhayan Chakraborty! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+     <h2>🚀 Software Development Enthusiast</h2>
+    </summary>
+  </ul>
+</div>
 
-# ✨ Hi there, I'm Budhayan Chakraborty! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+---
 
-### 🚀 Software Development Enthusiast 
+ 🎓 **Undergraduate Student** at **Indian Institute of Technology Roorkee**<br>
+ 💻 **Developer** at **MDG Space, IITR**<br>
+ 👨‍💼 **Software Developer Intern** at **Billion Labs**
 
 <br>
-
- 🎓 Undergraduate Student at **Indian Institute of Technology Roorkee**  
- 💻 Developer at **MDG Space, IITR**  
- 👨‍💼 Software Developer Intern at **Billion Labs**
-
-<br/>
 
 ## 🌐 Connect With Me <br>
 *Let's connect and collaborate on interesting projects!*
