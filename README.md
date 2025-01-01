@@ -2,11 +2,13 @@
 
 # ✨ Hi there, I'm Budhayan Chakraborty! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-### 🚀 Software Development Enthusiast
+### 🚀 Software Development Enthusiast 
 
-🎓 Undergraduate Student at **Indian Institute of Technology Roorkee**  
-💻 Developer at **MDG Space, IITR**  
-👨‍💼 Software Developer Intern at **Billion Labs**
+<br>
+
+ 🎓 Undergraduate Student at **Indian Institute of Technology Roorkee**  
+ 💻 Developer at **MDG Space, IITR**  
+ 👨‍💼 Software Developer Intern at **Billion Labs**
 
 <br/>
 
