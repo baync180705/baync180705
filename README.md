@@ -13,7 +13,7 @@
 
  🎓 **Undergraduate Student** at **Indian Institute of Technology Roorkee**<br>
  💻 **Developer** at **MDG Space, IITR**<br>
- 👨‍💼 **Software Developer Intern** at **Billion Labs**
+ 👨‍💼 **Ex-Software Developer Intern** at **Fenado AI**
 
 <br>
 
