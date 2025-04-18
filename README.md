@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=baync180705&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=regression_tips_dataset" alt="Top Languages" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=baync180705&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=regression_tips_dataset,population-prediction" alt="Top Languages" />
 </p>
 
 <p align="center">
