@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Budhayan%20Chakraborty&fontAlign=50&fontAlignY=40&color=gradient&desc=Software%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlign=50&descAlignY=55" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=F77BFF&center=true&vCenter=true&width=700&lines=Undergraduate+at+IIT+Roorkee;Developer+at+MDG+Space;Full+Stack+%7C+Systems+%7C+AI;I+build+things+that+scale+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=F77BFF&center=true&vCenter=true&width=700&lines=Undergraduate+at+IIT+Roorkee;Developer+at+MDG+Space;SDE+Intern+at+Repello-AI;Full+Stack+%7C+AI;I+build+things+that+scale+%F0%9F%9A%80" />
 
 </div>
 
