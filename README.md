@@ -15,6 +15,7 @@ name: Budhayan Chakraborty
 education: Indian Institute of Technology Roorkee
 current_roles:
   - Developer @ MDG Space, IITR
+  - SDE Intern @ Repello-AI
 previous_experience:
   - Software Developer Intern @ Fenado AI
 interests:
