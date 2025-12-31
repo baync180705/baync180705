@@ -37,8 +37,13 @@ interests:
 ### 🧩 DevOps & Databases
 <p align="center"> <img src="https://skillicons.dev/icons?i=docker,linux,git,mongodb,postgres" /> </p>
 
-## 🧬 Contribution Graph (Shader Style)
+## 🧬 Contribution Graph
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=baync180705&bg_color=0d1117&color=58a6ff&line=f77bff&point=ffffff&area=true&hide_border=true"/> </p>
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img width="600" src="https://nirzak-streak-stats.vercel.app?user=baync180705&theme=tokyonight" />
+</p>
 
 ## 🚀 Highlights
 - 💡 Builder mindset — from idea to production
@@ -46,7 +51,7 @@ interests:
 - ⚔️ Security, fuzzing & red-teaming enthusiast
 - 🧠 Strong focus on clean architecture & scale
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=80&color=gradient&text=Thanks%20for%20stopping%20by!&fontAlign=50&fontAlignY=50"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=Thanks%20for%20stopping%20by!&fontAlign=50&fontAlignY=50"/>
 
 ⭐ Feel free to star, fork, or reach out — I love collaborating!
 
