@@ -1,82 +1,58 @@
 <div align="center">
- 
-<div id="toc">
-  <ul style="list-style: none">
-    <summary>
-      <h1> ✨ Hi there, I'm Budhayan Chakraborty! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
-     <h2>🚀 Software Development Enthusiast</h2>
-    </summary>
-  </ul>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Budhayan%20Chakraborty&fontAlign=50&fontAlignY=40&color=gradient&desc=Software%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlign=50&descAlignY=55" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=F77BFF&center=true&vCenter=true&width=700&lines=Undergraduate+at+IIT+Roorkee;Developer+at+MDG+Space;Full+Stack+%7C+Systems+%7C+AI;I+build+things+that+scale+%F0%9F%9A%80" />
+
 </div>
 
 ---
 
- 🎓 **Undergraduate Student** at **Indian Institute of Technology Roorkee**<br>
- 💻 **Developer** at **MDG Space, IITR**<br>
- 👨‍💼 **Ex-Software Developer Intern** at **Fenado AI**
+## 🧠 About Me
 
-<br>
+```yaml
+name: Budhayan Chakraborty
+education: Indian Institute of Technology Roorkee
+current_roles:
+  - Developer @ MDG Space, IITR
+previous_experience:
+  - Software Developer Intern @ Fenado AI
+interests:
+  - Backend Systems
+  - Security & Red Teaming
+  - AI Agents & Tooling
+  - Web Infrastructure
+```
 
-## 🌐 Connect With Me <br>
-*Let's connect and collaborate on interesting projects!*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/budhayan-chakraborty-32757328b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:budhayanc2005@gmail.com)
-
-<br/>
-
-## 🏆 GitHub Profile Trophy
-*A showcase of my GitHub achievements and contributions*
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=baync180705&theme=dracula&title=-Stars,-Issues,-Reviews&column=3)
-
-<br/>
-
-## 📊 GitHub Statistics
-*A snapshot of my coding journey and contributions*
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=baync180705&hide=issues,stars&show=prs_merged&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=baync180705&show_icons=true&locale=en&layout=compact&theme=radical&exclude_repo=regression_tips_dataset,population-prediction,flowreel,Predictive_Maintenance_for_Bearing_Failure" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="400" src="https://nirzak-streak-stats.vercel.app?user=baync180705&theme=synthwave" alt="GitHub Streak" />
-</p>
-
-<br/>
+## 🌐 Connect With Me
+<div align="center"> <a href="https://www.linkedin.com/in/budhayan-chakraborty-32757328b/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:budhayanc2005@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
 
 ## 🛠️ Tech Stack
-*Technologies and tools I work with regularly*
+### ⚡ Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,go" /> </p>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px 0;">
-  <img src="https://img.shields.io/badge/Beautiful%20Soup-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Beautiful Soup"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Cheerio-21759B?style=for-the-badge&logo=javascript&logoColor=white" alt="Cheerio"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</div>
+### ⚙️ Frameworks & Libraries
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,flutter,django,nodejs,express" /> </p>
 
-<br/>
+### 🧩 DevOps & Databases
+<p align="center"> <img src="https://skillicons.dev/icons?i=docker,linux,git,mongodb,postgres" /> </p>
 
----
-*Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on projects or just want to connect!* 😊
+## 🧬 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=baync180705&bg_color=0d1117&color=58a6ff&line=f77bff&point=ffffff&area=true&hide_border=true"/> </p>
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img width="600" src="https://nirzak-streak-stats.vercel.app?user=baync180705&theme=tokyonight" />
+</p>
+
+## 🚀 Highlights
+- 💡 Builder mindset — from idea to production
+- 🔍 Love debugging low-level & distributed systems
+- ⚔️ Security, fuzzing & red-teaming enthusiast
+- 🧠 Strong focus on clean architecture & scale
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=Thanks%20for%20stopping%20by!&fontAlign=50&fontAlignY=50"/>
+
+⭐ Feel free to star, fork, or reach out — I love collaborating!
 
 </div>
