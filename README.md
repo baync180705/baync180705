@@ -48,8 +48,6 @@ interests:
 
 ## 🚀 Highlights
 - 💡 Builder mindset — from idea to production
-- 🔍 Love debugging low-level & distributed systems
-- ⚔️ Security, fuzzing & red-teaming enthusiast
 - 🧠 Strong focus on clean architecture & scale
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=gradient&text=Thanks%20for%20stopping%20by!&fontAlign=50&fontAlignY=50"/>
